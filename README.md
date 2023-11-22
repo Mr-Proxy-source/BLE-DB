@@ -21,7 +21,7 @@
 
 <br>
 
-## Discovered by [@Spooks4576](https://github.com/Spooks4576), [@Mr-Proxy-Source](https://github.com/Mr-Proxy-source) & [@xAstroBoy](https://github.com/xAstroBoy)
+## Discovered by [@Spooks4576](https://github.com/Spooks4576) & [@Mr-Proxy-Source](https://github.com/Mr-Proxy-source)
 
 ```js
 {0x000006, "Google Pixel Buds"},
