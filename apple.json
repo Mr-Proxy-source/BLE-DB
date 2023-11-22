@@ -1,0 +1,135 @@
+Name: AppleTV Connecting
+Flag: 0xC0
+Type: 0x27
+Continuity Action: ‎ ‎ Nearby Action
+
+Name: AppleTV Audio Sync
+Flag: 0xC0
+Type: 0x19
+Continuity Action: ‎ ‎ Nearby Action
+
+Name: AppleTV Colour Balance
+Flag: 0xC0
+Type: 0x1E
+Continuity Action: ‎ ‎ Nearby Action
+
+Name: Join This AppleTV?
+Flag: 0xBF
+Type: 0x20
+Continuity Action: ‎ ‎ Nearby Action
+
+Name: AppleTV AutoFill
+Flag: 0xC0
+Type: 0x13
+Continuity Action: ‎ ‎ Nearby Action
+
+Name: Transfer Phone Number
+Flag: 0xC0
+Type: 0x02
+Continuity Action: ‎ ‎ Nearby Action
+
+Name: Setup New iPhone
+Flag: 0xC0
+Type: 0x09
+Continuity Action: ‎ ‎ Nearby Action
+
+Name: Setup New IPad
+Flag: 0x40
+Type: 0x09
+Continuity Action: ‎ ‎ Nearby Action
+
+Name: AirPods Pro 1. Gen
+Prefix: 0x01
+Model: 0x0E20
+Continuity Action: Proximity Pair
+
+Name: AirPods Pro 2. Gen
+Prefix: 0x01
+Model: 0x1420
+Continuity Action: Proximity Pair
+
+Name: AirPods 1st Gen
+Prefix: 0x01
+Model: 0x0220
+Continuity Action: Proximity Pair
+
+Name: AirPods 2nd Gen
+Prefix: 0x01
+Model: 0x0F20
+Continuity Action: Proximity Pair
+
+Name: AirPods 3rd Gen
+Prefix: 0x01
+Model: 0x1320
+Continuity Action: Proximity Pair
+
+Name: AirPods Max
+Prefix: 0x01
+Model: 0x0A20
+Continuity Action: Proximity Pair
+
+Name: Beats Studio 3
+Prefix: 0x01
+Model: 0x0920
+Continuity Action: Proximity Pair
+
+Name: Beats Studio Pro
+Prefix: 0x01
+Model: 0x1720
+Continuity Action: Proximity Pair
+
+Name: Beats Flex
+Prefix: 0x01
+Model: 0x1020
+Continuity Action: Proximity Pair
+
+Name: Beats X
+Prefix: 0x01
+Model: 0x0520
+Continuity Action: Proximity Pair
+
+Name: Beats Fit Pro
+Prefix: 0x01
+Model: 0x1220
+Continuity Action: Proximity Pair
+
+Name: PowerBeats Pro
+Prefix: 0x01
+Model: 0x0B20
+Continuity Action: Proximity Pair
+
+Name: Beats Studio Buds+
+Prefix: 0x01
+Model: 0x1620
+Continuity Action: Proximity Pair
+
+Name: Beats Studio Buds
+Prefix: 0x01
+Model: 0x1120
+Continuity Action: Proximity Pair
+
+Name: AirTag
+Prefix: 0x05
+Model: 0x0055
+Continuity Action: Proximity Pair
+
+Name: Pair AppleTV
+Flag: 0xC0
+Type: 0x06
+Continuity Action: ‎ ‎ Nearby Action
+
+Name: HomeKit AppleTV Setup
+Flag: 0xC0
+Type: 0x0D
+Continuity Action: ‎ ‎ Nearby Action
+
+Name: Setup New AppleTV
+Flag: 0xC0
+Type: 0x01
+Continuity Action: ‎ ‎ Nearby Action
+
+Name: HomePod Setup
+Flag: 0xC0
+Type: 0x0B
+Continuity Action: ‎ ‎ Nearby Action
+
